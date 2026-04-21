@@ -51,6 +51,13 @@ suggesting fraudulent transactions avoid highly connected nodes.
 
 ![Graph Structure](assets/graph_structure.png)
 
+## Graph Visualization
+
+2-hop neighborhood around illicit nodes (timestep 5). Red = illicit, green = licit, gray = unknown.
+Illicit nodes tend to cluster together, forming detectable patterns in the transaction network.
+
+![Graph Visualization](assets/graph_visualization.png)
+
 ## Project Structure
 
 ```
